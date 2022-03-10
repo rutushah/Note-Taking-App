@@ -1,5 +1,5 @@
-### Note-Taking-App
-### Functionality of this application
+### Note-Taking-App :memo::pencil:::computer:
+### Functionality of this application :pen:
 ##### This is a note taking application build in Node JS
 ##### This application runs in terminal of VSCode where user can add, remove, read and view the list of notes from json file.
 ##### Initially when json file is empty, user can add new note through add command and remove that note from json file using node js code
